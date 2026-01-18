@@ -2,7 +2,7 @@
 
 
 body {
-    background-image: url(../images/BG_mobi.jpg);
+    background-image: url('../images/BG_mobi.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     padding: 40px 20px;
